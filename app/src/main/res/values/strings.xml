@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GifSearchAppProject</string>
+    <string name="title_activity_full">FullActivity</string>
+    <string name="gif_image">GIF image</string>
+</resources>
